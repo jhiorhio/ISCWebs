@@ -2,5 +2,4 @@
 backup copies
 
 Hi there jhiorhio is in the house!
-This is a sample temporary file for this tutorial.
-Hope you'll like it.
+I remove the original text file here so this must be new file.
